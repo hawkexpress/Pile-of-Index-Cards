@@ -11,7 +11,7 @@
 Welcome to Pile of Index Cards!
 ===============================================
 
-`Pile of Index Cards`_ は、「情報カード (Index Cards)」を使った、情整整理・組織化の方法です。5×3サイズの情報カードを使って、身の回りの情報を収集し、それをのちに整理・組織化し、新しい知見を得ます。
+`Pile of Index Cards`_ は、5x3サイズの「情報カード (Index Cards)」を使った、情整整理・組織化の方法です。
 
 .. _Pile of Index Cards: http://pileofindexcards.org/wiki/
 
