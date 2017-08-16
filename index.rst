@@ -8,10 +8,10 @@
      Pile of Index Cards,Index Cards,GTD,
      Lifehack,Infomatics,Information Architecture
 
-Welcome to Pile of Index Cards!
+Welcome to Pile of Index Cards
 ===============================================
 
-`Pile of Index Cards`_ は、5x3サイズの「情報カード (Index Cards)」を使った、情整整理・組織化の方法です。
+`Pile of Index Cards`_(PoIC) は、「情報カード (Index Cards)」を使った、情整整理・組織化の方法です。PoIC では、頭の中、身の回りの情報を、すべて、一枚一枚の情報カードに記録し、それをのちに再生産することで、新しい知見を得ます。このページでは、PoIC の方法、および、その背景にある方法論について解説しています。
 
 .. _Pile of Index Cards: http://pileofindexcards.org/wiki/
 
@@ -22,3 +22,28 @@ Welcome to Pile of Index Cards!
    :caption: User Documentation
 
    getting_started
+   poic_format
+   four_cards
+   chronological_order
+   virtual_memory
+
+.. _technical-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Technical Documentation
+
+   deploy
+   reproduction
+   seeing_through_poic
+
+.. _about-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: About Pile of Index Cards
+
+   about
+   acknowledgement
+   license
+   references
