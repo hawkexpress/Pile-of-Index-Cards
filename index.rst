@@ -13,7 +13,7 @@ Welcome to Pile of Index Cards
 
 `Pile of Index Cards`_ (PoIC) は、5x3 サイズの「`情報カード`_」を使った、情整収集システム、および、整理・組織化の方法です。
 
-このページでは、PoIC の方法、および、その背景にある方法論について解説しています。
+このページでは、PoIC の方法と、その背景にある方法論について解説しています。
 
 .. _Pile of Index Cards: http://pileofindexcards.org/wiki/
 .. _情報カード: https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E3%82%AB%E3%83%BC%E3%83%89
