@@ -7,8 +7,7 @@
 
 import os
 
-filelist = ["index",
-            "getting_started"]
+filelist = ["index"]
 
 githuburl = "https://github.com/hawkexpress/PoIC/raw/master/"
 
